@@ -1,0 +1,172 @@
+/* Account for fixed navbar */
+
+
+/* Finesse the page header spacing */
+.page-header {margin-bottom: 10px;}
+.page-header .lead {margin-bottom: 10px;}
+
+/* Reset the container */
+.container {
+  max-width: none !important;
+  width: 1170px;
+}
+
+/* Demonstrate the grids */
+.col-xs-1, .col-xs-2,.col-xs-3, .col-xs-4,.col-xs-5,.col-xs-6,.col-xs-7,.col-xs-8,.col-xs-9,.col-xs-10,.col-xs-11,.col-xs-12 {
+  padding: 1px;
+  margin-bottom:0px;
+}
+.quicklink {max-height:672px;}
+.panel {margin-bottom:2px;}
+.hotlinks > marquee {height:200px;}
+.well {margin-bottom:5px;padding-bottom:5px;}
+
+#uor-TabContent{height:300px;border:1px;border-style:solid;border-color:#ccc;border-radius:2px;padding:10px;}
+.pannel > div{margin-bottom:0px;padding-bottom:0px;}
+.panel-body{margin:2px;padding:5px;}
+.thumbnail {margin-bottom:4px;}
+blockquote {margin-bottom:5px;padding:8px;text-align:justify;color:darkblue;font-style:italic;font-size:18px;}
+.centered {display: table-cell;text-align: center;vertical-align: middle;}
+img.centered {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    text-align: center;
+    vertical-align: middle;
+    width:120px;
+    height:160px;
+}
+img.centered-rel {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    vertical-align: middle;
+    width:90%;
+    height:120%;
+}
+img.small{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    text-align: center;
+    vertical-align: middle;
+    width:75px;
+    height:100px;
+}
+.panel-uor1 {border-color: #d6c92e;}
+.panel-uor1 > .panel-heading {color: #31708f; background-color: #d6c92e;border-color: #d6c92e;}
+.panel-uor1 > .panel-heading + .panel-collapse .panel-body {
+  border-top-color: #d6c92e;
+}
+.btn-round{
+border-radius: 40px;
+-webkit-border-radius: 40px;
+-moz-border-radius: 40px;
+font-size:12px;
+padding-top:4px;
+}
+#carousel-uor{ width:100%;height:300px;overflow:hidden;margin:0px auto;color:black;padding:0;}
+.faq-cat-content {margin-top: 25px;}
+.faq-cat-tabs li a {padding: 15px 10px 15px 10px;background-color: #ffffff;border: 1px solid #dddddd;color: #777777;}
+.nav-tabs li a:focus,
+.panel-heading a:focus {outline: none;}
+.panel-heading a,
+.panel-heading a:hover,
+.panel-heading a:focus {text-decoration: none;color: #777777;}
+.faq-cat-content .panel-heading:hover {background-color: #efefef;}
+.active-faq {border-left: 5px solid #888888;}
+.panel-faq .panel-heading .panel-title span {font-size: 13px;font-weight: normal;}
+.fc1{color:brown;}
+.fc2{color:olive;}
+.thick {font-weight:bold;}
+.text-justify {text-align:justify;}
+.uf1{underline:underline;}
+.blue{background:#bce8f1;}
+.cream{background:#E9C92D;color:maroon;}
+.green{background:#dff0d8;}
+.grey{background:#f9f9f9;}
+.red{background:#EAE1CB;}
+.color1{background:#e6e2af;}
+.color2{background:#a7a37e;}
+.color3{background:#e6e3af;color:black;}
+.color6{background:#DC3D24;color:white;}
+.color8{background:#E3AE57;color:white;}
+.color63{background:#efd8a1;color:black;}
+.color64 {
+	background: #014464;
+	border: 1px solid #015b86;
+	border-top: 1px solid #029feb;
+	background: -moz-linear-gradient(top, #0272a7, #013953);
+	background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#0272a7), to(#013953));
+	background: -o-linear-gradient(top, #0272a7, #013953);
+}
+
+.container .navbar-header,
+.container .navbar-collapse {
+  margin-right: 0;
+  margin-left: 0;
+}
+.modal-dialog {width:50%;z-index:-9999;}
+.modal-dialog1 {width:50%; z-index:-9999; margin-left:23%;}
+.thumbnail {margin-bottom:20px;}
+.theme-dropdown .dropdown-menu {display: block;border: none;box-shadow:none;position: static;margin: 0px;padding:0px;}
+.theme-dropdown .dropdown-menu > li{border-bottom:1px;border-bottom-style:dotted;border-color: #ccc;}
+.theme-showcase > p > .btn {margin: 5px 0;}
+
+/* Always float the navbar header */
+.navbar{height:10px;margin:0px; padding:0px;}
+.navbar-header {
+  float: left;
+}
+
+/* Undo the collapsing navbar */
+.navbar-collapse {
+  display: block !important;
+ 
+  padding-bottom: 0;
+  overflow: visible !important;
+}
+
+.navbar-toggle {display: none;}
+.navbar-collapse {border-top: 0;}
+.navbar-brand {margin-left: -15px;}
+
+/* Always apply the floated nav */
+.navbar-nav {float: left; margin: 0;}
+.navbar-nav > li {float: left;}
+.navbar-nav > li > a {padding: 15px;}
+
+/* Redeclare since we override the float above */
+.navbar-nav.navbar-right {float: right;}
+
+/* Undo custom dropdowns */
+.navbar .navbar-nav .open .dropdown-menu {
+  position: absolute;
+  float: left;
+  background-color: #fff;
+  border: 1px solid #cccccc;
+  border: 1px solid rgba(0, 0, 0, 0.15);
+  border-width: 0 1px 1px;
+  border-radius: 0 0 4px 4px;
+  -webkit-box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+          box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {color: #333;}
+
+.navbar .navbar-nav .open .dropdown-menu > li > a:hover,
+.navbar .navbar-nav .open .dropdown-menu > li > a:focus,
+.navbar .navbar-nav .open .dropdown-menu > .active > a,
+.navbar .navbar-nav .open .dropdown-menu > .active > a:hover,
+.navbar .navbar-nav .open .dropdown-menu > .active > a:focus {
+  color: #fff !important;
+  background-color: #428bca !important;
+}
+.navbar .navbar-nav .open .dropdown-menu > .disabled > a,
+.navbar .navbar-nav .open .dropdown-menu > .disabled > a:hover,
+.navbar .navbar-nav .open .dropdown-menu > .disabled > a:focus {
+  color: #999 !important;
+  background-color: transparent !important;
+}

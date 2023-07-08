@@ -1,0 +1,75 @@
+#main {display: table;width: 100%;height:100%;border-width: 1px;border-color: #000;border-style: solid;box-sizing:border-box;}
+#wrapper {display: table;width:100%;height:50px;padding:0.3125em;background:#fff;margin-left:auto;margin-right:auto;background-color: #F9FAFB;    margin-bottom:2px;}
+#header {display: table;width:99%;
+    height:50px;
+    padding:0.3125em;
+    /* background:#F9FAFB; */
+    background: #22A406;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2px;
+    margin-bottom:5px;
+    border-width: 1px;
+    border-color: #b9b9b9;
+    border-style: solid;
+    box-sizing:border-box;
+    border-radius: 0.3125em;
+    box-shadow:1px 1px 2px #000;
+}
+
+#header > div {display: table-cell;padding: 1em;width: 50%;}
+#content {
+    display: table;
+    width:99%;
+    height:500px;
+    padding:.3125em;
+    background:#F9FAFB;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:4px;
+    margin-bottom:4px;
+    border-width: 1px;
+    border-color: #b9b9b9;
+    border-style: solid;
+    box-sizing:border-box;
+    border-radius: .3125em;
+    box-shadow:1px 1px 2px #000;
+}
+#footer {
+    display: table;
+    width:99%;
+    height:50px;
+    padding:.3125em;
+    /* background:#F9FAFB; */
+    background: #22A406;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:2px;
+    margin-bottom:2px;
+    border-width: 1px;
+    border-color: #b9b9b9;
+    border-style: solid;
+    box-sizing:border-box;
+    border-radius: 0.3125em;
+    box-shadow:1px 1px 2px #000;
+}
+body
+{
+   padding: 0;
+   margin:0;
+   min-width: 1200px;
+   color: #0F1419;
+   background-color: #F9FAFB;
+  
+   background-repeat: repeat;
+   background-attachment: fixed;
+   background-position: top left;
+}
+#toplink {height: 30px;top: 10px;font-family:Thoma,Verdana, Arial, Helvetica, sans-serif;font-size: 1.0em;line-height: 1.25em; align:center;padding-right:125px;}
+#toplink ul a { color:#002f2f; text-decoration:none; padding:0px 4px 0 4px; }
+#toplink ul li.selected a { color:margin-top: 5px;}
+#toplink ul, #toplink li { padding:0; margin:0; list-style:none; }
+#toplink ul { margin-top:10px; }
+#toplink li { display:inline; border-right:1px solid #fa7f00; }
+#toplink .first { border-left:1px solid #fa7f00; padding-left:5px;}
+#daydate {font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 18px;font-style: normal;font-weight: bold;text-align:center;top: 5px;bottom:10px;color: #002f2f;height: 30px;width: 100%;}
