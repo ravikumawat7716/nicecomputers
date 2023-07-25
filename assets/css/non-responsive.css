@@ -21,7 +21,7 @@
 .hotlinks > marquee {height:200px;}
 .well {margin-bottom:5px;padding-bottom:5px;}
 
-#uor-TabContent{height:300px;border:1px;border-style:solid;border-color:#ccc;border-radius:2px;padding:10px;}
+#nice-TabContent{height:300px;border:1px;border-style:solid;border-color:#ccc;border-radius:2px;padding:10px;}
 .pannel > div{margin-bottom:0px;padding-bottom:0px;}
 .panel-body{margin:2px;padding:5px;}
 .thumbnail {margin-bottom:4px;}
@@ -56,9 +56,9 @@ img.small{
     width:75px;
     height:100px;
 }
-.panel-uor1 {border-color: #d6c92e;}
-.panel-uor1 > .panel-heading {color: #31708f; background-color: #d6c92e;border-color: #d6c92e;}
-.panel-uor1 > .panel-heading + .panel-collapse .panel-body {
+.panel-nice1 {border-color: #d6c92e;}
+.panel-nice1 > .panel-heading {color: #31708f; background-color: #d6c92e;border-color: #d6c92e;}
+.panel-nice1 > .panel-heading + .panel-collapse .panel-body {
   border-top-color: #d6c92e;
 }
 .btn-round{
@@ -68,7 +68,7 @@ border-radius: 40px;
 font-size:12px;
 padding-top:4px;
 }
-#carousel-uor{ width:100%;height:300px;overflow:hidden;margin:0px auto;color:black;padding:0;}
+#carousel-nice{ width:100%;height:300px;overflow:hidden;margin:0px auto;color:black;padding:0;}
 .faq-cat-content {margin-top: 25px;}
 .faq-cat-tabs li a {padding: 15px 10px 15px 10px;background-color: #ffffff;border: 1px solid #dddddd;color: #777777;}
 .nav-tabs li a:focus,
