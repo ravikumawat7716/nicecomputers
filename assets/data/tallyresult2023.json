@@ -1,0 +1,101 @@
+[
+    {
+        "NAME": "MAOHAN LAL YADAV",
+        "ROLL NO": 21290406,
+        "BATCH": "1ST",
+        "OBTAINED MARKS": 34,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "68.00%",
+        "MOBILE": 8104312688
+    },
+    {
+        "NAME": "PAYAL SHARMA",
+        "ROLL NO": 21290498,
+        "BATCH": "2nd",
+        "OBTAINED MARKS": 34,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "68.00%",
+        "MOBILE": 9649286515
+    },
+    {
+        "NAME": "RAKESH GHOSLIYA",
+        "ROLL NO": 21290499,
+        "BATCH": "3rd",
+        "OBTAINED MARKS": 30,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "60.00%",
+        "MOBILE": 9785750817
+    },
+    {
+        "NAME": "MANOJ YADAV",
+        "ROLL NO": 21290403,
+        "BATCH": "4th",
+        "OBTAINED MARKS": 28,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "56.00%",
+        "MOBILE": 6350230543
+    },
+    {
+        "NAME": "GOPAL YADAV",
+        "ROLL NO": 21290402,
+        "BATCH": "5th",
+        "OBTAINED MARKS": 28,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "56.00%",
+        "MOBILE": 6367265851
+    },
+    {
+        "NAME": "MANISH YADAV",
+        "ROLL NO": 21290401,
+        "BATCH": "6th",
+        "OBTAINED MARKS": 38,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "76.00%",
+        "MOBILE": 9928487363
+    },
+    {
+        "NAME": "RAHUL YADAV",
+        "ROLL NO": 21290404,
+        "BATCH": "7th",
+        "OBTAINED MARKS": 30,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "60.00%",
+        "MOBILE": 7240053524
+    },
+    {
+        "NAME": "JYOTI SAIN",
+        "ROLL NO": 21290496,
+        "BATCH": "8th",
+        "OBTAINED MARKS": 26,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "52.00%",
+        "MOBILE": 8302738950
+    },
+    {
+        "NAME": "JYOTI KANWAR",
+        "ROLL NO": 21290497,
+        "BATCH": "9th",
+        "OBTAINED MARKS": 32,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "64.00%",
+        "MOBILE": 9680586102
+    },
+    {
+        "NAME": "SUNIL KUMAR YADAV",
+        "ROLL NO": 21290407,
+        "BATCH": "10th",
+        "OBTAINED MARKS": 36,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "72.00%",
+        "MOBILE": 8890739590
+    },
+    {
+        "NAME": "MANISH YADAV",
+        "ROLL NO": 21290405,
+        "BATCH": "11th",
+        "OBTAINED MARKS": 30,
+        "TOTAL MARKS": 50,
+        "PERCENTAGE": "60.00%",
+        "MOBILE": 7852055570
+    }
+]
