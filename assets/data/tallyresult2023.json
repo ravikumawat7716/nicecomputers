@@ -5,8 +5,8 @@
         "BATCH": "1ST",
         "OBTAINED MARKS": 34,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "68.00%",
-        "MOBILE": 8104312688
+        "PERCENTAGE": "68.00%"
+        
     },
     {
         "NAME": "PAYAL SHARMA",
@@ -14,8 +14,8 @@
         "BATCH": "2nd",
         "OBTAINED MARKS": 34,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "68.00%",
-        "MOBILE": 9649286515
+        "PERCENTAGE": "68.00%"
+        
     },
     {
         "NAME": "RAKESH GHOSLIYA",
@@ -23,8 +23,8 @@
         "BATCH": "3rd",
         "OBTAINED MARKS": 30,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "60.00%",
-        "MOBILE": 9785750817
+        "PERCENTAGE": "60.00%"
+        
     },
     {
         "NAME": "MANOJ YADAV",
@@ -32,8 +32,8 @@
         "BATCH": "4th",
         "OBTAINED MARKS": 28,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "56.00%",
-        "MOBILE": 6350230543
+        "PERCENTAGE": "56.00%"
+        
     },
     {
         "NAME": "GOPAL YADAV",
@@ -41,8 +41,8 @@
         "BATCH": "5th",
         "OBTAINED MARKS": 28,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "56.00%",
-        "MOBILE": 6367265851
+        "PERCENTAGE": "56.00%"
+        
     },
     {
         "NAME": "MANISH YADAV",
@@ -50,8 +50,8 @@
         "BATCH": "6th",
         "OBTAINED MARKS": 38,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "76.00%",
-        "MOBILE": 9928487363
+        "PERCENTAGE": "76.00%"
+        
     },
     {
         "NAME": "RAHUL YADAV",
@@ -59,8 +59,8 @@
         "BATCH": "7th",
         "OBTAINED MARKS": 30,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "60.00%",
-        "MOBILE": 7240053524
+        "PERCENTAGE": "60.00%"
+        
     },
     {
         "NAME": "JYOTI SAIN",
@@ -68,8 +68,8 @@
         "BATCH": "8th",
         "OBTAINED MARKS": 26,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "52.00%",
-        "MOBILE": 8302738950
+        "PERCENTAGE": "52.00%"
+        
     },
     {
         "NAME": "JYOTI KANWAR",
@@ -77,8 +77,8 @@
         "BATCH": "9th",
         "OBTAINED MARKS": 32,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "64.00%",
-        "MOBILE": 9680586102
+        "PERCENTAGE": "64.00%"
+        
     },
     {
         "NAME": "SUNIL KUMAR YADAV",
@@ -86,8 +86,8 @@
         "BATCH": "10th",
         "OBTAINED MARKS": 36,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "72.00%",
-        "MOBILE": 8890739590
+        "PERCENTAGE": "72.00%"
+        
     },
     {
         "NAME": "MANISH YADAV",
@@ -95,7 +95,7 @@
         "BATCH": "11th",
         "OBTAINED MARKS": 30,
         "TOTAL MARKS": 50,
-        "PERCENTAGE": "60.00%",
-        "MOBILE": 7852055570
+        "PERCENTAGE": "60.00%"
+        
     }
 ]
