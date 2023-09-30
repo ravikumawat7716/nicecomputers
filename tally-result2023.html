@@ -159,9 +159,17 @@
             searchResult.innerHTML = ""; // Clear previous search results
 
 
-            // Load JSON data
+            /* // Load JSON data
             $.getJSON("./assets/data/tallyresult2023.json", function (data) {
-                var found = false;
+                var found = false; */
+
+            /* Fetch Data */
+            fetch("https://script.google.com/macros/s/AKfycbxRVaPRLshGU1O1vJWCV3-vxNiO-FdWI1ekoaAwYaGlQKz7dqgD6TYcg-2RmUfDbH2G/exec")
+        .then(function(response) {
+            return response.json();
+        })
+        .then(function(data) {
+            var found = false;
                 for (var i = 0; i < data.length; i++) {
                     if (data[i]["ROLL NO"] == rollNumber) {
                         var resultTable = document.createElement("table");
